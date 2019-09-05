@@ -1,4 +1,9 @@
-* I am KK. My favorite sandwich is turkey.
-* I am Nic. My favorite sandwich is avacado.
-* I am awesome. I love puppies, but I don't like sandwiches.
-* I am Vincent. My favorite sandwich is ham.
+1. KK
+2. turkey
+
+1. Nic
+2. avacado
+
+1. Vincent
+2. ham
+
